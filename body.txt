@@ -2,3 +2,4 @@ header
 footer
 navbar
 body
+banner
